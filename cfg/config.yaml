@@ -1,4 +1,2 @@
-{
-  data_path: /Users/albert/project/others/database_milvus/fruit01,
-  model: openai/clip-vit-base-patch32,
-}
+data_path: /Users/albert/project/others/database_milvus/fruit01  #数据路径
+model: openai/clip-vit-base-patch32  ##llm模型
