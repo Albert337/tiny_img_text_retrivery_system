@@ -1,7 +1,6 @@
-
 import os
 import gradio as gr
-from insert_search import image_search
+from scripts.insert_search import image_search
 
 def main():
     gr.close_all()
