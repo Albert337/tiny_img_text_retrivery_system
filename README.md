@@ -1,1 +1,0 @@
-# tiny_img_text_retrivery_system

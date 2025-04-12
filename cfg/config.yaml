@@ -1,0 +1,4 @@
+{
+  data_path: /Users/albert/project/others/database_milvus/fruit01,
+  model: openai/clip-vit-base-patch32,
+}
